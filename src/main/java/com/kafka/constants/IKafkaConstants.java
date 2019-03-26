@@ -1,7 +1,7 @@
 package com.kafka.constants;
 
 public interface IKafkaConstants {
-	public static String KAFKA_BROKERS = "kafka-551f2e8-shubham-7d96.aivencloud.com:24225";
+	public static String KAFKA_BROKERS = "localhost:9092";
 	
 	public static Integer MESSAGE_COUNT=1000;
 	
